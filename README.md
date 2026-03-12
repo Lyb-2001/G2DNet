@@ -1,5 +1,3 @@
-<img width="507" height="273" alt="image" src="https://github.com/user-attachments/assets/fe9cc84f-9b75-4af5-8fb2-a48ebd9da530" /># G2DNet: Generative-to-Discriminative Framework for Real-Time RGB-T Scene Parsing
-
 This is the official repository for our paper, "[Your Paper Title Here]". 
 
 🔥 **Highlights:** We pioneer a novel Generative-to-Discriminative (G2D) framework that successfully resolves the trade-off between generative uncertainty modeling and real-time inference. Our exceptionally lightweight student network, **G2DNet-S***, achieves state-of-the-art **83.0% mIoU** while requiring only **5.76 M parameters** and **15.62 G FLOPs**, running at robust **24.76 FPS**.
@@ -7,13 +5,16 @@ This is the official repository for our paper, "[Your Paper Title Here]".
 ## Architecture and Details
 
 ### 1. Overall G2D Framework & UAD Strategy
-<img width="1766" height="945" alt="G2D_framework" src="[Paste your framework image link here, e.g., https://github.com/.../img1.png]" />
+<img width="1766" height="945" alt="G2D_framework" src="<img width="586" height="392" alt="kd" src="https://github.com/user-attachments/assets/e3a469d6-56e8-4bcb-94a5-ab7efc4fa682" />
+" />
 
 ### 2. Generative Teacher (G2DNet-T)
-<img width="1766" height="824" alt="G2DNet_Teacher" src="[Paste your Teacher/DINOv3/CUA image link here]" />
+<img width="1766" height="824" alt="G2DNet_Teacher" src="<img width="767" height="414" alt="teacher" src="https://github.com/user-attachments/assets/c7f167bc-839f-4195-993c-5fa3c123f0ff" />
+" />
 
 ### 3. Real-Time Student (G2DNet-S) with MSA & FDA
-<img width="1766" height="910" alt="G2DNet_Student" src="[Paste your Student network image link here]" />
+<img width="1766" height="910" alt="G2DNet_Student" src="<img width="601" height="327" alt="student" src="https://github.com/user-attachments/assets/8a38e7d0-a451-4dd4-adf5-d1eeb553454f" />
+" />
 
 ## Result
 
