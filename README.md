@@ -14,14 +14,13 @@ This is the official repository for our paper, "Generative-to-Discriminative: Un
 <img width="601" height="327" alt="student" src="https://github.com/user-attachments/assets/8a38e7d0-a451-4dd4-adf5-d1eeb553454f" />
 
 ## Result
+<img width="1505" height="696" alt="image" src="https://github.com/user-attachments/assets/afabd627-a500-4858-80b2-71d32780f5b3" />
 
 ### Quantitative Results (Efficiency vs. Accuracy)
-<img width="1766" height="738" alt="Quantitative_Results" src="[Paste your table/chart image link here]" />
+<img width="785" height="667" alt="image" src="https://github.com/user-attachments/assets/e4fbfef1-19c4-41f3-a797-9576923e30bf" />
 
 ### Qualitative Visualization
-<img width="1766" height="1050" alt="Qualitative_Visualization" src="[Paste your visualization comparison image link here]" />
-
-## Weights and Visualization Results
+<img width="1523" height="894" alt="image" src="https://github.com/user-attachments/assets/dba71ddc-da9a-4502-bc27-9551c3ccb654" />
 
 You can download the pre-trained weights of G2DNet-S* and the visualization results from the following links:
 
