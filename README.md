@@ -5,10 +5,10 @@ This is the official repository for our paper, "Generative-to-Discriminative: Un
 ## Architecture and Details
 
 ### 1. Overall G2D Framework & UAD Strategy
-<img width="586" height="392" alt="kd" src="https://github.com/user-attachments/assets/e3a469d6-56e8-4bcb-94a5-ab7efc4fa682" />
+<img width="1271" height="786" alt="image" src="https://github.com/user-attachments/assets/8320a2ab-1d5a-4d5c-90d6-bee028659384" />
 
 ### 2. Generative Teacher (G2DNet-T)
-<img width="767" height="414" alt="teacher" src="https://github.com/user-attachments/assets/c7f167bc-839f-4195-993c-5fa3c123f0ff" />
+<img width="1288" height="702" alt="image" src="https://github.com/user-attachments/assets/f40da672-bf92-4bc6-af12-0eb251650121" />
 
 ### 3. Real-Time Student (G2DNet-S) with MSA & FDA
 <img width="601" height="327" alt="student" src="https://github.com/user-attachments/assets/8a38e7d0-a451-4dd4-adf5-d1eeb553454f" />
@@ -39,4 +39,4 @@ The complete source code, including the training scripts for the Flow Matching T
 
 ## Contact
 
-Please drop me an email for any problems or discussion: [Your Email Address, e.g., yibenli2001@163.com].
+Please drop me an email for any problems or discussion: [yibenli2001@163.com].
