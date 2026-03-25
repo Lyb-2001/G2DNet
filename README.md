@@ -22,21 +22,21 @@ This is the official repository for our paper, "Generative-to-Discriminative: Un
 ### Qualitative Visualization
 <img width="1523" height="894" alt="image" src="https://github.com/user-attachments/assets/dba71ddc-da9a-4502-bc27-9551c3ccb654" />
 
-You can download the pre-trained weights of G2DNet-S* and the visualization results from the following links:
+## Weights and Visualization Results
 
-* **Baidu Netdisk:** [Link to your Baidu Drive]([Insert Link Here]) (Extraction code: `[code]`)
-* **Google Drive (Optional):** [Link to your Google Drive]([Insert Link Here])
+You can download the pre-trained weights and visualization results from the following link:
+
+*   **Link:** [Baidu Netdisk: G2DNet](https://pan.baidu.com/s/1E5J5XT3p7SGRGIWh1U53ow)
 
 ## Base Framework and Dataset
 
-The baseline framework and the datasets (e.g., [Insert dataset name, e.g., MFNet / PST900]) used in our work can be obtained from the following repository/links:
+The base framework and the dataset used in our work can be obtained from the following repository:
 
-* [Link to the Dataset Repository]([Insert Link Here])
+*   [https://github.com/xiaodonguo/SUS_dataset](https://github.com/xiaodonguo/SUS_dataset)
 
 ## Code Release
 
-The complete source code, including the training scripts for the Flow Matching Teacher (G2DNet-T), the Uncertainty-Aware Distillation (UAD), and the Student network (G2DNet-S), will be released upon the acceptance of our paper. Stay tuned!
+The complete source code will be released upon the acceptance of our paper. Stay tuned!
 
 ## Contact
-
-Please drop me an email for any problems or discussion: [yibenli2001@163.com].
+Please drop me an email for any problems or discussion: yibenli2001@163.com.
